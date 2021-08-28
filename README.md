@@ -40,7 +40,7 @@
 <!-- #region Site Badges -->
 [GitHub-Badge]: https://img.shields.io/badge/-@Xiaobei-QuQ-%23181717?style=flat-square&logo=github&logoColor=white "GitHub Badge"
 
-[Homepage-Link]: https://550.moe "Homepage Link"
+[Homepage-Link]: https://xiaobei-quq.github.io/ "Homepage Link"
 
 [NPM-Badge]: https://img.shields.io/badge/-@Garfield_Lee-%23CB3837?style=flat-square&logo=npm&logoColor=white "NPM Badge"
 
