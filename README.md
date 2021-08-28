@@ -1,8 +1,3 @@
-### ❀ Hello, I'm North ❀
-
-Front-end engineer | Touch Fisher
-
-
 # &#10048; <span style="font-family:Trebuchet MS;">Hello, I'm [North][Homepage-Link]</span> &#10048;
 
 <p style="font-family:Georgia;">A Front-end engineer | Touch Fisher.</p>
@@ -34,8 +29,6 @@ Front-end engineer | Touch Fisher
 <!-- ![InVision Badge][InVision-Badge] -->
 
 ![MacOS Badge][MacOS-Badge]
-
-## <span style="font-family:Trebuchet MS;">My GitHub stats:</span>
 
 
 <!-- #region Links -->
