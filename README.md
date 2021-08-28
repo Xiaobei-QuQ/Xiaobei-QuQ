@@ -1,7 +1,6 @@
-### Hi there 👋
+### ❀ Hello, I'm North ❀
 
-<!--
-**Xiaobei-QuQ/Xiaobei-QuQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+前端开发｜嘤嘤怪
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
