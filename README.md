@@ -81,3 +81,6 @@
 [macos-badge]: https://img.shields.io/badge/-macOS-%23999999?style=flat-square&logo=apple&logoColor=white "macOS Badge"
 
 <!-- #endregion Tool Badges -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaobei-QuQ)](https://github.com/anuraghazra/github-readme-stats)
+
