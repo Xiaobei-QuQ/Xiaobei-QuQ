@@ -1,20 +1,16 @@
 # &#10048; <span style="font-family:Trebuchet MS;">Hello, I'm [North][homepage-link]</span> &#10048;
 
-<p style="font-family:Georgia;">A Front-end engineer | Touch Fisher.</p>
+<p style="font-family:Georgia;">A Front-end Developer</p>
 
 ## <span style="font-family:Trebuchet MS;">Languages and Tools:</span>
 
 ![HTML5 Badge][html5-badge]
 ![CSS3 Badge][css3-badge]
-![TypeScript Badge][typescript-badge]
-
 ![Tailwindcss Badge][tailwindcss-badge]
-![Less Badge][Less-badge]
-![PostCSS Badge][postcss-badge]
 
 ![React Badge][react-badge]
+![TypeScript Badge][typescript-badge]
 ![Next.js Badge][next.js-badge]
-![Node.js Badge][node.js-badge]
 ![NestJS Badge][NestJS-badge]
 ![tRPC Badge][tRPC-badge]
 
@@ -23,16 +19,12 @@
 ![Rollup.js Badge][rollup.js-badge]
 ![Webpack Badge][webpack-badge]
 
-![ESLint Badge][eslint-badge]
-![Prettier Badge][prettier-badge]
-![Babel Badge][babel-badge]
 
-![Git Badge][git-badge]
-![VisualStudioCode Badge][visualstudiocode-badge]
-
+![Cursor Badge][cursor-badge]
+![Visual Studio Code Badge][visualstudio-badge]
+![Neovim Badge][neovim-badge]
 <!-- ![InVision Badge][InVision-Badge] -->
 
-![MacOS Badge][macos-badge]
 
 <!-- #region Links -->
 
@@ -50,7 +42,8 @@
 
 [html5-badge]: https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white "HTML5 Badge"
 [css3-badge]: https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white "CSS3 Badge"
-[typescript-badge]: https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white "TypeScript Badge"
+[javascript-badge]: https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white "JavaScript Badge"
+[typescript-badge]: https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white "TypeScript Badge" 
 [git-badge]: https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white "Git Badge"
 [tailwindcss-badge]: https://img.shields.io/badge/-Tailwindcss-%2337bdf8?style=flat-square&logo=Tailwindcss&logoColor=white "Tailwindcss Badge"
 [sass-badge]: https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=white "Sass Badge"
@@ -77,10 +70,12 @@
 [powershell-badge]: https://img.shields.io/badge/-PowerShell-%235391FE?style=flat-square&logo=powershell&logoColor=white "PowerShell Badge"
 [visualstudio-badge]: https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white "Visual Studio Badge"
 [githubactions-badge]: https://img.shields.io/badge/-GitHub_Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=white "GitHub Actions Badge"
-[visualstudiocode-badge]: https://img.shields.io/badge/-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white "Visual Studio Code Badge"
+[cursor-badge]: https://img.shields.io/badge/-Cursor-%23007ACC?style=flat-square&logo=cursor&logoColor=white "Cursor Badge"
 [macos-badge]: https://img.shields.io/badge/-macOS-%23999999?style=flat-square&logo=apple&logoColor=white "macOS Badge"
+[neovim-badge]: https://img.shields.io/badge/-Neovim-%235700ff?style=flat-square&logo=neovim&logoColor=white "Neovim Badge"
 
 <!-- #endregion Tool Badges -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaobei-QuQ)](https://github.com/anuraghazra/github-readme-stats)
+## <span style="font-family:Trebuchet MS;">Github Stats:</span>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaobei-QuQ&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
